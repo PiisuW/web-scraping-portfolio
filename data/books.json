@@ -1,0 +1,362 @@
+[
+    {
+        "title": "A Light in the Attic",
+        "price": "£51.77",
+        "rating": "Three stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Tipping the Velvet",
+        "price": "£53.74",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Soumission",
+        "price": "£50.10",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Sharp Objects",
+        "price": "£47.82",
+        "rating": "Four stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "price": "£54.23",
+        "rating": "Five stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "The Requiem Red",
+        "price": "£22.65",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "The Dirty Little Secrets of Getting Your Dream Job",
+        "price": "£33.34",
+        "rating": "Four stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "price": "£17.93",
+        "rating": "Three stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "price": "£22.60",
+        "rating": "Four stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "The Black Maria",
+        "price": "£52.15",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+        "price": "£13.99",
+        "rating": "Two stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Shakespeare's Sonnets",
+        "price": "£20.66",
+        "rating": "Four stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Set Me Free",
+        "price": "£17.46",
+        "rating": "Five stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "price": "£52.29",
+        "rating": "Five stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Rip it Up and Start Again",
+        "price": "£35.02",
+        "rating": "Five stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "price": "£57.25",
+        "rating": "Three stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Olio",
+        "price": "£23.88",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "price": "£37.59",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Libertarianism for Beginners",
+        "price": "£51.33",
+        "rating": "Two stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "It's Only the Himalayas",
+        "price": "£45.17",
+        "rating": "Two stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Mothering Sunday",
+        "price": "£13.34",
+        "rating": "Two stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Mother, Can You Not?",
+        "price": "£16.89",
+        "rating": "Five stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "M Train",
+        "price": "£27.18",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Lilac Girls",
+        "price": "£17.28",
+        "rating": "Two stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Lies and Other Acts of Love",
+        "price": "£45.14",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Lab Girl",
+        "price": "£40.85",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Keep Me Posted",
+        "price": "£20.46",
+        "rating": "Four stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle",
+        "price": "£56.27",
+        "rating": "Three stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Grey (Fifty Shades #4)",
+        "price": "£48.49",
+        "rating": "Four stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Exit, Pursued by a Bear",
+        "price": "£51.34",
+        "rating": "Four stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Daredevils",
+        "price": "£16.34",
+        "rating": "Three stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Cravings: Recipes for What You Want to Eat",
+        "price": "£20.50",
+        "rating": "Three stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Born for This: How to Find the Work You Were Meant to Do",
+        "price": "£21.59",
+        "rating": "Five stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Arena",
+        "price": "£21.36",
+        "rating": "Four stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Adultery",
+        "price": "£20.88",
+        "rating": "Five stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "A Mother's Reckoning: Living in the Aftermath of Tragedy",
+        "price": "£19.53",
+        "rating": "Three stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "A Gentleman's Position (Society of Gentlemen #3)",
+        "price": "£14.75",
+        "rating": "Five stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "11/22/63",
+        "price": "£48.48",
+        "rating": "Three stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",
+        "price": "£24.57",
+        "rating": "Two stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!",
+        "price": "£49.71",
+        "rating": "Five stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Notes from a Small Island (Notes From a Small Island #1)",
+        "price": "£40.17",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Night (The Night Trilogy #1)",
+        "price": "£13.51",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Neither Here nor There: Travels in Europe",
+        "price": "£38.95",
+        "rating": "Three stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Naked",
+        "price": "£31.69",
+        "rating": "Three stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Morning Star (Red Rising #3)",
+        "price": "£29.40",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",
+        "price": "£57.83",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Midnight Riot (Peter Grant/ Rivers of London - books #1)",
+        "price": "£55.46",
+        "rating": "Two stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Me Talk Pretty One Day",
+        "price": "£57.60",
+        "rating": "Two stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Manuscript Found in Accra",
+        "price": "£34.98",
+        "rating": "Two stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Lust & Wonder",
+        "price": "£11.87",
+        "rating": "Two stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Lila (Gilead #3)",
+        "price": "£12.47",
+        "rating": "Three stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",
+        "price": "£33.26",
+        "rating": "Two stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Life Without a Recipe",
+        "price": "£59.04",
+        "rating": "Five stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Life After Life",
+        "price": "£26.13",
+        "rating": "Two stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Letter to a Christian Nation",
+        "price": "£22.20",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Let's Pretend This Never Happened: A Mostly True Memoir",
+        "price": "£45.11",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Legend (Legend #1)",
+        "price": "£43.69",
+        "rating": "Four stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Lean In: Women, Work, and the Will to Lead",
+        "price": "£25.02",
+        "rating": "One stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+        "price": "£55.50",
+        "rating": "Five stars",
+        "availability": "In stock"
+    },
+    {
+        "title": "Lady Renegades (Rebel Belle #3)",
+        "price": "£53.04",
+        "rating": "Five stars",
+        "availability": "In stock"
+    }
+]
